@@ -12,3 +12,8 @@ C:\Users\Abdulkadir\Desktop\NET_Developer\Mask_Tracking\WorkAround\obj\Debug\net
 C:\Users\Abdulkadir\Desktop\NET_Developer\Mask_Tracking\WorkAround\obj\Debug\net8.0\WorkAround.pdb
 C:\Users\Abdulkadir\Desktop\NET_Developer\Mask_Tracking\WorkAround\obj\Debug\net8.0\WorkAround.genruntimeconfig.cache
 C:\Users\Abdulkadir\Desktop\NET_Developer\Mask_Tracking\WorkAround\obj\Debug\net8.0\ref\WorkAround.dll
+C:\Users\Abdulkadir\Desktop\NET_Developer\Mask_Tracking\WorkAround\bin\Debug\net8.0\Entities.dll
+C:\Users\Abdulkadir\Desktop\NET_Developer\Mask_Tracking\WorkAround\bin\Debug\net8.0\Entities.pdb
+C:\Users\Abdulkadir\Desktop\NET_Developer\Mask_Tracking\WorkAround\obj\Debug\net8.0\WorkAround.csproj.AssemblyReference.cache
+C:\Users\Abdulkadir\Desktop\NET_Developer\Mask_Tracking\WorkAround\obj\Debug\net8.0\WorkAround.sourcelink.json
+C:\Users\Abdulkadir\Desktop\NET_Developer\Mask_Tracking\WorkAround\obj\Debug\net8.0\WorkAround.csproj.CopyComplete
