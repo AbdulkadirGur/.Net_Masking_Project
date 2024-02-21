@@ -9,13 +9,13 @@ namespace Business.Concrete
 {
     public class PersonManager
     {
-
+        
         public void ApplyForMask(Person person)
         {
 
         }
 
-        public List<Person> GetList()
+        public List<Person>? GetList()
         {
             return null;
         }
