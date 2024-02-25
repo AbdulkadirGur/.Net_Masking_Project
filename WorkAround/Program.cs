@@ -11,10 +11,10 @@ namespace MyApp
         {
             
             Person person1 = new Person();
-            person1.FirstName = "Abdulkadir";
+            person1.FirstName = "A";
             person1.NationalIdentity = 254;
-            person1.LastName = "Gur";
-            person1.DateOfBirthYear = 2000;
+            person1.LastName = "G";
+            person1.DateOfBirthYear = 2010;
 
             PttManager pttManager = new PttManager(new PersonManager());
             pttManager.GiveMask(person1 );
